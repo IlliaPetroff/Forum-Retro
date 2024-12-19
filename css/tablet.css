@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media screen and (min-width: 832px) and (max-width: 1279px) {
+    /* HEADER */
+    .header{
+        width: 832px;
+    }
+    .title1{
+        margin-left: 360px;
+    }
+    .circle1{
+        margin-left: 400px;
+    }
+    .square{
+        margin-left: 310px;
+        width: 60px;
+    }
+    .wrap{
+        margin-left: 600px;
+    }
+    /* HEADER END */
+    .section{
+        width: 832px;
+        height: 1600px;
+    }
+    .rectangle2{
+        width: 300px;
+        height: 1650px;
+        left: 0px;
+    }
+    .list{
+        width: 400px;
+    }
+    .box{
+        width: 350px;
+        height: 600px;
+    }
+    .item{
+        width: 340px;
+    }
+    .link{
+        font-size: 23px;
+    }
+    .none{
+        display: none
+    }
+    .square2{
+        width: 50px;
+    }
+    .subtitle{
+        font-size: 45px;
+        margin: 20px;
+    }
+    .rectangle4{
+        width: 160px;
+        height: 1280px;
+        left: 468.5px;
+        top: 600px;
+    }
+    .square3{
+        width: 320px;
+        height: 60px;
+        margin-left: 0px;
+        margin-top: 468px;
+    }
+    .interest{
+        left: 120px;
+        top: 1000px;
+    }
+    .item2{
+        width: 700px;
+    }
+    .one{
+        margin-left: 70px;
+    }
+    .one:hover{
+        margin-left: 127px;
+     }
+    .two:hover{
+        margin-left: 127px;
+     }
+    /* FOOTER */
+    .footer{
+        width: 832px;
+    }
+    /* FOOTER END */
+}
